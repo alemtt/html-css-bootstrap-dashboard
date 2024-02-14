@@ -1,0 +1,32 @@
+.debug #header{
+    height: 60px;
+}
+
+.debug #side-nav{
+
+}
+
+
+:root{
+    --bst-main: #1b72e8FF;
+    --bst-pass: #198754FF;
+    --bts-fail: #dc3545FF;
+    --bts-process: #ffc107FF;
+    --bts-light: #f7f7f7FF;
+}
+
+
+
+*{
+    border: 1px dashed black;
+}
+
+#side_nav{
+    width: 15%;
+    height: 100px;
+}
+
+.d_flex{
+    display: flex;
+    flex-wrap: wrap;
+}
